@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[GO.com]:https://img.shields.io/badge/GO%201.19-0769AD?style=flat&logo=go&logoColor=white
+[GO.com]:https://img.shields.io/badge/GO%20-0769AD?style=flat&logo=go&logoColor=white
 [GO-Url]:https://go.dev/
 [license-shield]: https://img.shields.io/github/license/briankliwon/algorithm-go
 [license-url]: https://github.com/briankliwon/algorithm-go/blob/main/LICENSE
