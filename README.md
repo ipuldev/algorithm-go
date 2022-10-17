@@ -53,11 +53,11 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/[FEATURE]`)
-3. Type Your best solution (`FOLDER-MODULE/VERSION SOLUTION`) eg. (`fizz-buzz/version1.go`)
-3. Add your function in main.go file make sure result have to be same and correct 
-3. Commit your Changes (`git commit -m 'Add some [FEATURE]'`)
-4. Push to the Branch (`git push origin feature/[FEATURE]`)
-5. Open a Pull Request
+3. Type Your best solution in (`FOLDER-MODULE/VERSION SOLUTION`) eg. (`fizz-buzz/version1.go`) 
+4. If your algorithm is new please add `main.go` to running your code and `validating result function` for example in fizz_buzz module
+5. Commit your Changes (`git commit -m 'Add some [FEATURE]'`)
+6. Push to the Branch (`git push origin feature/[FEATURE]`)
+7. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
