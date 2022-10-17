@@ -5,7 +5,7 @@ import (
 )
 
 func version2() []string {
-	//slice variable to storing log activity
+	//slice variable to save result
 	var fizzBuzz []string
 	var count3 int
 	var count5 int

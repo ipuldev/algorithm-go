@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func version1() []string {
-	//slice variable to storing log activity
+	//slice variable to save result
 	var fizzBuzz []string
 	for i := 1; i <= 100; i++ {
 
