@@ -9,7 +9,7 @@ Fizz buzz (often spelled FizzBuzz in this context) has been used as an interview
 
 ### Rule
 1. Range output is 100 
-2. words of output
+2. Words of output
     - (`number`)
     - Fizz
     - Buzz
