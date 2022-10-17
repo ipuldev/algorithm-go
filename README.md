@@ -25,7 +25,7 @@
 
 In mathematics and computer science, an algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. [wikipedia][wikipedia-algorithm].
 
-Thi project just to implement a algorithm in simple case the goal to make easy to undertanding the code & process, help another people to see how our code is works.
+This project is just to implement algorithms in simple cases the aim is to make it easier to understand code & process, help other coders see how our code actually works.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
