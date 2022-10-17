@@ -9,7 +9,7 @@ func version2() []string {
 	var fizzBuzz []string
 	var count3 int
 	var count5 int
-	for i := 1; i <= 30; i++ {
+	for i := 1; i <= 100; i++ {
 		count3++
 		count5++
 		if count3 == 3 && count5 == 5 {

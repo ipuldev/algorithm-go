@@ -53,7 +53,7 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/[FEATURE]`)
-3. Type Your best solution [FOLDER-MODULE]/[VERSION SOLUTION] eg. fizz-buzz/version1.go
+3. Type Your best solution (`FOLDER-MODULE/VERSION SOLUTION`) eg. (`fizz-buzz/version1.go`)
 3. Add your function in main.go file make sure result have to be same and correct 
 3. Commit your Changes (`git commit -m 'Add some [FEATURE]'`)
 4. Push to the Branch (`git push origin feature/[FEATURE]`)
@@ -72,5 +72,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [GO.com]:https://img.shields.io/badge/GO%201.19-0769AD?style=flat&logo=go&logoColor=white
 [GO-Url]:https://go.dev/
+[license-shield]: https://img.shields.io/github/license/briankliwon/algorithm
+[license-url]: https://github.com/briankliwon/algorithm-go/blob/main/LICENSE
 [wikipedia-algorithm]:https://en.wikipedia.org/wiki/Algorithm
 
