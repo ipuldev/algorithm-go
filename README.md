@@ -54,7 +54,7 @@ Don't forget to give the project a star! Thanks again!
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/[FEATURE]`)
 3. Type Your best solution in (`FOLDER_MODULE/VERSION SOLUTION`) eg. (`fizz_buzz/version1.go`) 
-4. If your algorithm is new please add `main.go` to running your code and `validating result function` for example in fizz_buzz module
+4. If your algorithm is new, add `main.go` to running your code and `validating result function` for example in fizz_buzz module
 5. Commit your Changes (`git commit -m 'Add some [FEATURE]'`)
 6. Push to the Branch (`git push origin feature/[FEATURE]`)
 7. Open a Pull Request
