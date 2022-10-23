@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type Node struct {
 	next  *Node
@@ -28,6 +30,18 @@ func (l *List) append(value interface{}) {
 	}
 
 	l.head = node
+}
+
+func (l *List) InsertAfter(prev *Node, data interface{}) {
+	if prev == nil {
+		fmt.Println("Sorry your node must be have an value")
+		return
+	}
+	new_node := &Node{
+		next:  prev.next,
+		value: data,
+	}
+	prev.next = new_node
 }
 
 func (l *List) Preview() string {
